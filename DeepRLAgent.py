@@ -2,10 +2,6 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun  8 09:52:56 2017
-
-@author: farismismar
-
 Modified on Mon Nov 05, 2018
 
 """
